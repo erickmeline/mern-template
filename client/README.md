@@ -11,7 +11,7 @@ npm install react-router
 ```
 
 ## Supply Express with a build directory
-The Back End express server will be looking for a build directory and will complain if it doesn't find one. Although not necessaray, Run `npm run build` to silence that complaint.
+The Back End express server will be looking for a build directory, and will complain if it doesn't find one. Although it's not necessaray, Run `npm run build` to silence that complaint.
 
 ```
 npm run build
